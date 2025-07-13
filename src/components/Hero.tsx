@@ -18,7 +18,7 @@ const Hero = () => {
     {/* Profile Image */}
     <div className="w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden">
       <img
-        src="Profile_photo\Profile.jpeg"
+        src="Profile_photo/Profile.jpeg"
         alt="Profile"
         className="w-full h-full object-cover"
       />
